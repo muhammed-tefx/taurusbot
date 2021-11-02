@@ -31,7 +31,7 @@ Project created by <a href="https://github.com/muhammed-tefx">muhammed-tefx</a> 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammed-tefx&repo=taurusbot&theme=nightowl)](https://github.com/muhammed-tefx/taurusbot)
